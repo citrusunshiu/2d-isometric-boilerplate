@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 9482ca9ffe1aea04ab304c1cff704118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: stormflareranged_0
+  - first:
+      213: 21300002
+    second: stormflareranged_1
+  - first:
+      213: 21300004
+    second: stormflareranged_2
+  - first:
+      213: 21300006
+    second: stormflareranged_3
+  - first:
+      213: 21300008
+    second: stormflareranged_4
+  - first:
+      213: 21300010
+    second: stormflareranged_5
+  - first:
+      213: 21300012
+    second: stormflareranged_6
+  - first:
+      213: 21300014
+    second: stormflareranged_7
+  - first:
+      213: 21300016
+    second: stormflareranged_8
+  - first:
+      213: 21300018
+    second: stormflareranged_9
+  - first:
+      213: 21300020
+    second: stormflareranged_10
+  - first:
+      213: 21300022
+    second: stormflareranged_11
+  - first:
+      213: 21300024
+    second: stormflareranged_12
+  - first:
+      213: 21300026
+    second: stormflareranged_13
+  - first:
+      213: 21300028
+    second: stormflareranged_14
+  - first:
+      213: 21300030
+    second: stormflareranged_15
+  - first:
+      213: 21300032
+    second: stormflareranged_16
+  - first:
+      213: 21300034
+    second: stormflareranged_17
+  - first:
+      213: 21300036
+    second: stormflareranged_18
+  - first:
+      213: 21300038
+    second: stormflareranged_19
+  - first:
+      213: 21300040
+    second: stormflareranged_20
+  - first:
+      213: 21300042
+    second: stormflareranged_21
+  - first:
+      213: 21300044
+    second: stormflareranged_22
+  - first:
+      213: 21300046
+    second: stormflareranged_23
+  - first:
+      213: 21300048
+    second: stormflareranged_24
+  - first:
+      213: 21300050
+    second: stormflareranged_25
+  - first:
+      213: 21300052
+    second: stormflareranged_26
+  - first:
+      213: 21300054
+    second: stormflareranged_27
+  - first:
+      213: 21300056
+    second: stormflareranged_28
+  - first:
+      213: 21300058
+    second: stormflareranged_29
+  - first:
+      213: 21300060
+    second: stormflareranged_30
+  - first:
+      213: 21300062
+    second: stormflareranged_31
+  - first:
+      213: 21300064
+    second: stormflareranged_32
+  - first:
+      213: 21300066
+    second: stormflareranged_33
+  - first:
+      213: 21300068
+    second: stormflareranged_34
+  - first:
+      213: 21300070
+    second: stormflareranged_35
+  - first:
+      213: 21300072
+    second: stormflareranged_36
+  - first:
+      213: 21300074
+    second: stormflareranged_37
+  - first:
+      213: 21300076
+    second: stormflareranged_38
+  - first:
+      213: 21300078
+    second: stormflareranged_39
+  - first:
+      213: 21300080
+    second: stormflareranged_40
+  - first:
+      213: 21300082
+    second: stormflareranged_41
+  - first:
+      213: 21300084
+    second: stormflareranged_42
+  - first:
+      213: 21300086
+    second: stormflareranged_43
+  - first:
+      213: 21300088
+    second: stormflareranged_44
+  - first:
+      213: 21300090
+    second: stormflareranged_45
+  - first:
+      213: 21300092
+    second: stormflareranged_46
+  - first:
+      213: 21300094
+    second: stormflareranged_47
+  - first:
+      213: 21300096
+    second: stormflareranged_48
+  - first:
+      213: 21300098
+    second: stormflareranged_49
+  - first:
+      213: 21300100
+    second: stormflareranged_50
+  - first:
+      213: 21300102
+    second: stormflareranged_51
+  - first:
+      213: 21300104
+    second: stormflareranged_52
+  - first:
+      213: 21300106
+    second: stormflareranged_53
+  - first:
+      213: 21300108
+    second: stormflareranged_54
+  - first:
+      213: 21300110
+    second: stormflareranged_55
+  - first:
+      213: 21300112
+    second: stormflareranged_56
+  - first:
+      213: 21300114
+    second: stormflareranged_57
+  - first:
+      213: 21300116
+    second: stormflareranged_58
+  - first:
+      213: 21300118
+    second: stormflareranged_59
+  - first:
+      213: 21300120
+    second: stormflareranged_60
+  - first:
+      213: 21300122
+    second: stormflareranged_61
+  - first:
+      213: 21300124
+    second: stormflareranged_62
+  - first:
+      213: 21300126
+    second: stormflareranged_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stormflareranged_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3621
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07eceead8f0a6145b0e43ca58d175c0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3621
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c890b57d028b54a43a9cf2466de0566c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e162551378c764b4a822a5f994d5a3ef
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_3
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534fa9c7adf8c944184ae7ace93cc814
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_4
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5aa78e0743830499955c17e3210483
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_5
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc7ef9fccfc17541bd7b0579de1dd8a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_6
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca372be5ca5577a45934f27329e91cf1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_7
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea35f71a7a316c49aa41752c55bb748
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cee734607e7b448b584216fa397da5
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b9845ac9d822343afc1b6791e65a9a
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832be43e16dc80543b427a42a18f1a03
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_11
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6f2c26dae6c34dbe1af841f1464f9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_12
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0679359c5e1e9648bb1bc49c6213145
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_13
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42437c2dc314c5049bfcf92c0f5d1612
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_14
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eebdf4190b9c94cb72a9522c35c83d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_15
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac9418aa9648144bbd6ebcc34390b8
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e702a86048767646aeb5c68ecfae6ab
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ca083ec59e80b498190056011c8733
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2537499dff4b384dac7ae5c506687f1
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_19
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb502a303cad9a144a08a106f2bccf3d
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_20
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5857f66f1d61c4f8ca75b52a2bd86f
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_21
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efc8c80c93b8246876f6ed316f6b2b
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_22
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f292833bca85448f0d0695c54c166
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_23
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bfa18df90dff044b0c076344dd1572
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e2b2b5e304e8e4aa0abdbb0943f31b
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a008e1e21d545a429ee38fc760bc45c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0ffc4de656f4438269662d9d3891c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_27
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed355801486ff6c4193064b710ac684a
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_28
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2085
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988f11d97f6f68b41ae4cdff4e169e93
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_29
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b37b20c56b07948b0fc04e33dfc053
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_30
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8facf9965e28439a1628eed347767
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_31
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c32ae1cb568342b19c67dee18f281
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1573
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeffdf9cd4bde54b85bfee6a84da871
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1573
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b3bb82e0eb734c8a1ba82e24eb6bb
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_34
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc0398d9f630f4988421f50ebe1400
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_35
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413cd3510489ba5409f2393d45755fa0
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_36
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb173bc1efadee641b41a238dbd75167
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_37
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348d326085b6a34880830299f9a3224
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_38
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eac4b8d5e7ec7448702eaa84f45e1b
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_39
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87feafc7ad6ec794bbdd15b06dcef6b6
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1061
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd587d0f012cda4e86ab7ed5dde4b49
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1061
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9c001ad0b7f5e4bad8ef4e3914eaa8
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1061
+        width: 440
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb341e889a2800546aa3cebc2cb56979
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_43
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1061
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e59e889552f9ef4a8d1dc49e226d96f
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_44
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da304c65b29e29643a84583f74ee3920
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_45
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be2d43624385044abdd9bd04b8b2e5
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_46
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524dc7513844914aa21b8ac445c77c5
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_47
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491b6290e6ce74a4b92286be1c96ef28
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4701b527c14fa046b02726377aa39c3
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 549
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559681cd80d465643b5aebe5b749c790
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_50
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acce68feb5dcaf4daf82aadc68c3e7c
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd1f8e3b06fa34f8d8a9ad59a21004
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_52
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f954ccf0042441b42acf1b37cb1a4
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_53
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e1768b562f0874585fa482b6ee65d1
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_54
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234dd5b9d3179854e88b1704e8a41de4
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_55
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c37e840b9471b4eb82910812c274d8
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d5db30d36b434895504750427d89d
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_57
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 37
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b8daefa2a19b419155b574918a796
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_58
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bad995288736f458c8d67b77fe51bb
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_59
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a74d1e1698045c45b61486ce53d558b
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_60
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badcd6a881663d942be1b1a860c73a95
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_61
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed56d4d31bf754bb19bc9febd83a6b
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_62
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d95f0b1cbc422449c543de5f65bd10
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormflareranged_63
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f7c9590eb76c448c83c2865d352a8
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f71a66428211578499be8f87a22a7e47
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

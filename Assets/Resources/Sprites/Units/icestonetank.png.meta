@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 9430e3f1b1411354c833b9c462a2d136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: icestonetank_0
+  - first:
+      213: 21300002
+    second: icestonetank_1
+  - first:
+      213: 21300004
+    second: icestonetank_2
+  - first:
+      213: 21300006
+    second: icestonetank_3
+  - first:
+      213: 21300008
+    second: icestonetank_4
+  - first:
+      213: 21300010
+    second: icestonetank_5
+  - first:
+      213: 21300012
+    second: icestonetank_6
+  - first:
+      213: 21300014
+    second: icestonetank_7
+  - first:
+      213: 21300016
+    second: icestonetank_8
+  - first:
+      213: 21300018
+    second: icestonetank_9
+  - first:
+      213: 21300020
+    second: icestonetank_10
+  - first:
+      213: 21300022
+    second: icestonetank_11
+  - first:
+      213: 21300024
+    second: icestonetank_12
+  - first:
+      213: 21300026
+    second: icestonetank_13
+  - first:
+      213: 21300028
+    second: icestonetank_14
+  - first:
+      213: 21300030
+    second: icestonetank_15
+  - first:
+      213: 21300032
+    second: icestonetank_16
+  - first:
+      213: 21300034
+    second: icestonetank_17
+  - first:
+      213: 21300036
+    second: icestonetank_18
+  - first:
+      213: 21300038
+    second: icestonetank_19
+  - first:
+      213: 21300040
+    second: icestonetank_20
+  - first:
+      213: 21300042
+    second: icestonetank_21
+  - first:
+      213: 21300044
+    second: icestonetank_22
+  - first:
+      213: 21300046
+    second: icestonetank_23
+  - first:
+      213: 21300048
+    second: icestonetank_24
+  - first:
+      213: 21300050
+    second: icestonetank_25
+  - first:
+      213: 21300052
+    second: icestonetank_26
+  - first:
+      213: 21300054
+    second: icestonetank_27
+  - first:
+      213: 21300056
+    second: icestonetank_28
+  - first:
+      213: 21300058
+    second: icestonetank_29
+  - first:
+      213: 21300060
+    second: icestonetank_30
+  - first:
+      213: 21300062
+    second: icestonetank_31
+  - first:
+      213: 21300064
+    second: icestonetank_32
+  - first:
+      213: 21300066
+    second: icestonetank_33
+  - first:
+      213: 21300068
+    second: icestonetank_34
+  - first:
+      213: 21300070
+    second: icestonetank_35
+  - first:
+      213: 21300072
+    second: icestonetank_36
+  - first:
+      213: 21300074
+    second: icestonetank_37
+  - first:
+      213: 21300076
+    second: icestonetank_38
+  - first:
+      213: 21300078
+    second: icestonetank_39
+  - first:
+      213: 21300080
+    second: icestonetank_40
+  - first:
+      213: 21300082
+    second: icestonetank_41
+  - first:
+      213: 21300084
+    second: icestonetank_42
+  - first:
+      213: 21300086
+    second: icestonetank_43
+  - first:
+      213: 21300088
+    second: icestonetank_44
+  - first:
+      213: 21300090
+    second: icestonetank_45
+  - first:
+      213: 21300092
+    second: icestonetank_46
+  - first:
+      213: 21300094
+    second: icestonetank_47
+  - first:
+      213: 21300096
+    second: icestonetank_48
+  - first:
+      213: 21300098
+    second: icestonetank_49
+  - first:
+      213: 21300100
+    second: icestonetank_50
+  - first:
+      213: 21300102
+    second: icestonetank_51
+  - first:
+      213: 21300104
+    second: icestonetank_52
+  - first:
+      213: 21300106
+    second: icestonetank_53
+  - first:
+      213: 21300108
+    second: icestonetank_54
+  - first:
+      213: 21300110
+    second: icestonetank_55
+  - first:
+      213: 21300112
+    second: icestonetank_56
+  - first:
+      213: 21300114
+    second: icestonetank_57
+  - first:
+      213: 21300116
+    second: icestonetank_58
+  - first:
+      213: 21300118
+    second: icestonetank_59
+  - first:
+      213: 21300120
+    second: icestonetank_60
+  - first:
+      213: 21300122
+    second: icestonetank_61
+  - first:
+      213: 21300124
+    second: icestonetank_62
+  - first:
+      213: 21300126
+    second: icestonetank_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icestonetank_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3621
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337ccdda1edde584e81ba6c780578764
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3621
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f78a0a7401ca724380b87e1884b3f84
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b23db16472c744cab77b69b9b546f6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_3
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d1f5986b0345f4693dabe6c0c3cd6c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_4
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c6d81fb300324a9f184d44ff28db4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_5
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c82494cad3f04e9689d8c61495db3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_6
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a8557391a85c41a987def59bfbfee
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_7
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b870af37f749e214790c5d90784d621a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f816ce1890b6542aaeaf12659d176a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6bc1e4e7c06664a96fd26b22ddb843
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9584248184cac649952999aec017b2f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_11
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f77edea953bc846beee61c054bc4e2
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_12
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c404534a030ef64ba5f902541a27a06
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_13
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fbccff3434a16408dbca18d4075b5c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_14
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7488da6b5c87d4baf13490ed333c43
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_15
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c486894913b3500499ec4457105d0dde
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cae1ace5428ac44abd4a626e445c2d4
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b788b5e48f68cf94cad4a4422d71058e
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98821ab2afd1fd141a5f3a2af45a32fe
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_19
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31259a2e254594a9fa133bdea6c7fe
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_20
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513674c1a43067242a2cb6bd689da425
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_21
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc1ac28d035f60418277478e1e12ac3
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_22
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e391672fc4c99be45a42b5fc119ea474
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_23
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13755d9b1adae784db58e937f20e665a
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16127a19e4aaec40a11ffdd7f14e9e8
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adb95ac8daca974aa1f9aed270c3e38
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931b4caef53fbb4b91a97c98f1b1d2a
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_27
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249df3623fdb26146a3417e708d2a326
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_28
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2085
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464661267894934ba798abe6138aaef
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_29
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42004ad5af59e3240ab0fd9882536d16
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_30
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791bd91f166626c498603c820216d19e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_31
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133ac57739add514080a9929eb117fdb
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1573
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1175ea8af4ecf67479e57b21ab3f4bdb
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1573
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5949377ba21d04d8788f8dfe95869f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_34
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ad2217ed6c014186fcdc19a9c3b3a
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_35
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c318999beaf4d468bfab19cf89cd83
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_36
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe933636d616594f9651dc66f03c886
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_37
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145811dc6f02dfd4c898fce057cbdad0
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_38
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fae4cf82829374096a2a20a29afe22
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_39
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e301531e99041429afb6745cd06716
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1061
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a8e20dbce88c94f90f2b64226b9db7
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1061
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c29f7425e7bc44b9c614888842b52e
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1061
+        width: 440
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d8b267d2e6124d93eba946f3f2919
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_43
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1061
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c77197bdaf9a41b641aa464f82164
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_44
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb7190a0ef25e540a8f11ecb12116ad
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_45
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74127ce7f9fe34849a44030048b063c2
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_46
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b71e0d42701a6941947582ee2d6e1d9
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_47
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c1387fc9d83814b8f7ad2d3729ec46
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653ce16ab5d1264e98d69f70584821f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 549
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a214c707dee837140937ef68c06a893a
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_50
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd469a23c7f2fc84db4cd28baa6e1093
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd68cd90af1de84ba39c91388c230dd
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_52
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d607da64f0daf0458d0f5f071215000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_53
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667611bf35b3e654faa4dcce2fe16b35
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_54
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae9f9e608df6274d9e0f4a7b55f9f25
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_55
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d110844e8de72ec479a6b72a4178629a
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36f4cc26c1d8d2428f754869c862637
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_57
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 37
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93897c069ba13ba43bed29c87ad476f4
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_58
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4efd405cdd2274b8a157b6d0cdce79
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_59
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4685e6f0ec17c844582e0e2300a2bc77
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_60
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc72f0a1e05a72845a3c3b0bc98a181b
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_61
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1693bacf792cf64c9c0dcb4d2863ec8
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_62
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba85a93b868c43429176a9bbc59df16
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icestonetank_63
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e35ee45dd15d8418e965bd6562a374
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 19135ded741ae12469564a422f2b8dcd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: c8d651cab88cacd42acdc83c9a5da4dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: summoner_0
+  - first:
+      213: 21300002
+    second: summoner_1
+  - first:
+      213: 21300004
+    second: summoner_2
+  - first:
+      213: 21300006
+    second: summoner_3
+  - first:
+      213: 21300008
+    second: summoner_4
+  - first:
+      213: 21300010
+    second: summoner_5
+  - first:
+      213: 21300012
+    second: summoner_6
+  - first:
+      213: 21300014
+    second: summoner_7
+  - first:
+      213: 21300016
+    second: summoner_8
+  - first:
+      213: 21300018
+    second: summoner_9
+  - first:
+      213: 21300020
+    second: summoner_10
+  - first:
+      213: 21300022
+    second: summoner_11
+  - first:
+      213: 21300024
+    second: summoner_12
+  - first:
+      213: 21300026
+    second: summoner_13
+  - first:
+      213: 21300028
+    second: summoner_14
+  - first:
+      213: 21300030
+    second: summoner_15
+  - first:
+      213: 21300032
+    second: summoner_16
+  - first:
+      213: 21300034
+    second: summoner_17
+  - first:
+      213: 21300036
+    second: summoner_18
+  - first:
+      213: 21300038
+    second: summoner_19
+  - first:
+      213: 21300040
+    second: summoner_20
+  - first:
+      213: 21300042
+    second: summoner_21
+  - first:
+      213: 21300044
+    second: summoner_22
+  - first:
+      213: 21300046
+    second: summoner_23
+  - first:
+      213: 21300048
+    second: summoner_24
+  - first:
+      213: 21300050
+    second: summoner_25
+  - first:
+      213: 21300052
+    second: summoner_26
+  - first:
+      213: 21300054
+    second: summoner_27
+  - first:
+      213: 21300056
+    second: summoner_28
+  - first:
+      213: 21300058
+    second: summoner_29
+  - first:
+      213: 21300060
+    second: summoner_30
+  - first:
+      213: 21300062
+    second: summoner_31
+  - first:
+      213: 21300064
+    second: summoner_32
+  - first:
+      213: 21300066
+    second: summoner_33
+  - first:
+      213: 21300068
+    second: summoner_34
+  - first:
+      213: 21300070
+    second: summoner_35
+  - first:
+      213: 21300072
+    second: summoner_36
+  - first:
+      213: 21300074
+    second: summoner_37
+  - first:
+      213: 21300076
+    second: summoner_38
+  - first:
+      213: 21300078
+    second: summoner_39
+  - first:
+      213: 21300080
+    second: summoner_40
+  - first:
+      213: 21300082
+    second: summoner_41
+  - first:
+      213: 21300084
+    second: summoner_42
+  - first:
+      213: 21300086
+    second: summoner_43
+  - first:
+      213: 21300088
+    second: summoner_44
+  - first:
+      213: 21300090
+    second: summoner_45
+  - first:
+      213: 21300092
+    second: summoner_46
+  - first:
+      213: 21300094
+    second: summoner_47
+  - first:
+      213: 21300096
+    second: summoner_48
+  - first:
+      213: 21300098
+    second: summoner_49
+  - first:
+      213: 21300100
+    second: summoner_50
+  - first:
+      213: 21300102
+    second: summoner_51
+  - first:
+      213: 21300104
+    second: summoner_52
+  - first:
+      213: 21300106
+    second: summoner_53
+  - first:
+      213: 21300108
+    second: summoner_54
+  - first:
+      213: 21300110
+    second: summoner_55
+  - first:
+      213: 21300112
+    second: summoner_56
+  - first:
+      213: 21300114
+    second: summoner_57
+  - first:
+      213: 21300116
+    second: summoner_58
+  - first:
+      213: 21300118
+    second: summoner_59
+  - first:
+      213: 21300120
+    second: summoner_60
+  - first:
+      213: 21300122
+    second: summoner_61
+  - first:
+      213: 21300124
+    second: summoner_62
+  - first:
+      213: 21300126
+    second: summoner_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: summoner_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3621
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5b132965d41846a5935ce000b6dd6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3621
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966cd3f4df623c343b4de0a5c2674c4f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3eeb97d7a41464eb419088a925183c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_3
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd945a5ae9733a40bbcc1d06b26d1b2
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_4
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3355f7cf82ba0640a251024fadd8557
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_5
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec5c02af683efe4f913248e5a2fbbc7
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_6
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977990e95bf932c428e10247ce2f27c6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_7
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc55ddb8ae1dc46a2f9f96e5c400a6
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54c4bb7ffc8784483454a61c3111a3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e818f72581705d24cb4caf396997e144
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194001bc4d132da49ac47063d569f3b1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_11
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabc17ac7cb5d114a9c10a25ba8774d4
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_12
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955dc7886b849e44a8d2d2af2fac4031
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_13
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46502ee62ca0e049a59897c60a5747d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_14
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d2f6aac5d1fa642b96817f63c4b005
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_15
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95feec67eeac9e743916bde6d80d23e8
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dfd974f02d8234bb67b68af084a873
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db699365f52e94699df74d21490972
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25abc027f43b240b58033a4a1076b8
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_19
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51676a43929c38428170d662e91693b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_20
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed449edb28c327a44b9ba62de05c6dea
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_21
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2514a1668f0ee3f4e8e3b675ba44a45e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_22
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4dced27096c6c4ca148445a350f84c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_23
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2ec166a7a37af4295c8fd5ee1b4ae9
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7ae6a399cdb346b90d8982351de7f
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e773befc744c54a88acc30e2c7276c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f37b92c5d1b21479bebaa0fb1bc055
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_27
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b43f34daf16c7445b631a19bf1ea17f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_28
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2085
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba574f32032fb743b40119d9153a4ec
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_29
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb975ef7d17ff1d45b9605d9384b3359
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_30
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb90125d5240af42ae0482ae4cfc40f
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_31
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6784439ab6ca2a44bbd0510ed871f12b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1573
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fff0ab0b2e27a742b12088c54d6167b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1573
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37843a15331d844b6d980b13498414
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_34
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294fc1aa4e8b9df4e9befaf88400da7e
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_35
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07f4cfde3a3234783c5a14aaa74238
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_36
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9c9674fd49e947be4f1397958ed54
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_37
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df3c0220477b24d9f919a739b32584
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_38
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f94d248f07b55498f2fb9bd431d6d2
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_39
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed537bb44fc62ca4aa31fe10bc687491
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1061
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244aef443a673804e898de665fb740b8
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1061
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca001b568bfd3439f132a0c2e732b3
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1061
+        width: 440
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135ea848372d7b74890578b1de1d25ba
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_43
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1061
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988d1dff69d17f4408740781cfee60db
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_44
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc8d4f31a579f7439d06014466bf1c0
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_45
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c57bedf2754044499012cb94ccfd479
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_46
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aaf3bf2b53bc94eb0935074ea4b51f
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_47
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63e5995eabd41444811a4c6eccd7de2
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49222543f06f7b641b020912db6ac74c
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 549
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047cdb5c8366d1c44bb153ca84769fa3
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_50
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e117e0e062eced64cab41d8a677b90fe
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6c92b0110724049b329ca5c635a8bc
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_52
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc374850746e1b241b868cddf79ad032
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_53
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736f537131e78d648aae559de3ceb68c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_54
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7527330b0b8b3fc4eb792be61d9cd013
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_55
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f898ae53da2f054e96f4a0da4506246
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1817f9c912aa5948929fe2f64912569
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_57
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 37
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f410d08237ba25348b471b7cfc458d97
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_58
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf5ef8b145765d40ad368f7740adb86
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_59
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633eeefb54e344248b29e22959ebc0bd
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_60
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87cf1125c18a12498d616a204a4401a
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_61
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7cdb769e758e4d88fbe5d5e67db88
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_62
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc60830a680ffa45a225cad016ec76e
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summoner_63
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf46eeb6c4eceaf41899d8d61ce37ad9
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 59ea1cce945c7404b9227dcdfe739a7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

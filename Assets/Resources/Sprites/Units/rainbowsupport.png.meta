@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 4b442aaf13658694090e996bec382836
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: rainbowsupport_0
+  - first:
+      213: 21300002
+    second: rainbowsupport_1
+  - first:
+      213: 21300004
+    second: rainbowsupport_2
+  - first:
+      213: 21300006
+    second: rainbowsupport_3
+  - first:
+      213: 21300008
+    second: rainbowsupport_4
+  - first:
+      213: 21300010
+    second: rainbowsupport_5
+  - first:
+      213: 21300012
+    second: rainbowsupport_6
+  - first:
+      213: 21300014
+    second: rainbowsupport_7
+  - first:
+      213: 21300016
+    second: rainbowsupport_8
+  - first:
+      213: 21300018
+    second: rainbowsupport_9
+  - first:
+      213: 21300020
+    second: rainbowsupport_10
+  - first:
+      213: 21300022
+    second: rainbowsupport_11
+  - first:
+      213: 21300024
+    second: rainbowsupport_12
+  - first:
+      213: 21300026
+    second: rainbowsupport_13
+  - first:
+      213: 21300028
+    second: rainbowsupport_14
+  - first:
+      213: 21300030
+    second: rainbowsupport_15
+  - first:
+      213: 21300032
+    second: rainbowsupport_16
+  - first:
+      213: 21300034
+    second: rainbowsupport_17
+  - first:
+      213: 21300036
+    second: rainbowsupport_18
+  - first:
+      213: 21300038
+    second: rainbowsupport_19
+  - first:
+      213: 21300040
+    second: rainbowsupport_20
+  - first:
+      213: 21300042
+    second: rainbowsupport_21
+  - first:
+      213: 21300044
+    second: rainbowsupport_22
+  - first:
+      213: 21300046
+    second: rainbowsupport_23
+  - first:
+      213: 21300048
+    second: rainbowsupport_24
+  - first:
+      213: 21300050
+    second: rainbowsupport_25
+  - first:
+      213: 21300052
+    second: rainbowsupport_26
+  - first:
+      213: 21300054
+    second: rainbowsupport_27
+  - first:
+      213: 21300056
+    second: rainbowsupport_28
+  - first:
+      213: 21300058
+    second: rainbowsupport_29
+  - first:
+      213: 21300060
+    second: rainbowsupport_30
+  - first:
+      213: 21300062
+    second: rainbowsupport_31
+  - first:
+      213: 21300064
+    second: rainbowsupport_32
+  - first:
+      213: 21300066
+    second: rainbowsupport_33
+  - first:
+      213: 21300068
+    second: rainbowsupport_34
+  - first:
+      213: 21300070
+    second: rainbowsupport_35
+  - first:
+      213: 21300072
+    second: rainbowsupport_36
+  - first:
+      213: 21300074
+    second: rainbowsupport_37
+  - first:
+      213: 21300076
+    second: rainbowsupport_38
+  - first:
+      213: 21300078
+    second: rainbowsupport_39
+  - first:
+      213: 21300080
+    second: rainbowsupport_40
+  - first:
+      213: 21300082
+    second: rainbowsupport_41
+  - first:
+      213: 21300084
+    second: rainbowsupport_42
+  - first:
+      213: 21300086
+    second: rainbowsupport_43
+  - first:
+      213: 21300088
+    second: rainbowsupport_44
+  - first:
+      213: 21300090
+    second: rainbowsupport_45
+  - first:
+      213: 21300092
+    second: rainbowsupport_46
+  - first:
+      213: 21300094
+    second: rainbowsupport_47
+  - first:
+      213: 21300096
+    second: rainbowsupport_48
+  - first:
+      213: 21300098
+    second: rainbowsupport_49
+  - first:
+      213: 21300100
+    second: rainbowsupport_50
+  - first:
+      213: 21300102
+    second: rainbowsupport_51
+  - first:
+      213: 21300104
+    second: rainbowsupport_52
+  - first:
+      213: 21300106
+    second: rainbowsupport_53
+  - first:
+      213: 21300108
+    second: rainbowsupport_54
+  - first:
+      213: 21300110
+    second: rainbowsupport_55
+  - first:
+      213: 21300112
+    second: rainbowsupport_56
+  - first:
+      213: 21300114
+    second: rainbowsupport_57
+  - first:
+      213: 21300116
+    second: rainbowsupport_58
+  - first:
+      213: 21300118
+    second: rainbowsupport_59
+  - first:
+      213: 21300120
+    second: rainbowsupport_60
+  - first:
+      213: 21300122
+    second: rainbowsupport_61
+  - first:
+      213: 21300124
+    second: rainbowsupport_62
+  - first:
+      213: 21300126
+    second: rainbowsupport_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rainbowsupport_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3621
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c67bb8e39427747be1d8bcb6030769
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3621
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e1cbdc782dd74d907a0579d2a0770
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb63ede8562cabd4b9392c7e270aebb4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_3
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf7fc360d7548419ef5ae65475071b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_4
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2886fb60326ebb64cae0488d520aad53
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_5
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25157580fb774b34d84da930f4251d0c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_6
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea4c447c22d9d5458e3880cd1516655
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_7
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3621
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bacef50565c5ba40a08a19194b45272
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de76f55384162945a40c7ffc620d9c8
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bf977cc9b3e984893efc7b9da537bc
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc209dc7420332847963635ed8a11779
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_11
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a64b572cd6ad4993104c9f5fadcdc
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_12
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332bd3d550709c4eb4bbe747fc41157
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_13
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba51f1bb71b6ca4e8c10c2daef7d726
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_14
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6131fa64514ab45ba46c0d72ffb4a5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_15
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3109
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a936fc992bbf4dd4992980c5d187d0ba
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eda4f4fa0e3cbf4b899535d7cfd66aa
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8062da1887d1e3449746c4e3e97c29d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5d89649a9ce3c40ab51842ed5441a2
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_19
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f285f0e146b69c84a9b1f6a3c5602b8e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_20
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5057d5dc19cec374bb58f609f7d8e940
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_21
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e860a510136e449a8f6a199ad377e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_22
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020d1cad5a585b438a0353595bffda8
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_23
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2597
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7dc8d7619ce644abe0844177024ed5
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2890c6a9907c409c1e868105cacd9
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7adf8d8c3e18b4788cbf88bdb5f623
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c3b5880a1b7e4fba0d3a4bd94d40f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_27
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e511ac8a5b80438dcb26f688b6380
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_28
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2085
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eca7494eb98f245ba4024552ae0b5b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_29
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ebed19a6b41c45b6bee3838eb11a0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_30
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca93af8cedaa644a8d89131c3a969cc
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_31
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2085
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb903a41ef1ad5f4085d758e3238e95d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1573
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d550b1e39f2a7148aa51062cff45fe3
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1573
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cd3c35ba2d9694ba6fdcca5c0233d3
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_34
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1093a94dfb5a54cacdf55a5b5afe71
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_35
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3d178538e5f3c4abb13c1d91b1fc6b
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_36
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39036ebe8d9fdf947b24d701568ce4ae
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_37
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f6830a031e184eabbcdc983bf7210
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_38
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4974f87c6679fb046819e3cbe4267532
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_39
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1573
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b640291777df04dad8a6903e41e230
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1061
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91306e050131bc149bb69c40e46baaa9
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1061
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b85dcf8c0fdb894cae331102f995510
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1061
+        width: 440
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3066154c2e7f2648b2a41887d4335c5
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_43
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1061
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6fa7658902ee848b4b8a32fac7a165
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_44
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e4d1e887d8cd46b69aecff6a7a02b
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_45
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f078feb2a351d54b805e675a7f40459
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_46
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d734e28e89d12646b2f222127fe3a58
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_47
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1061
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e4f1d73b2adcc44984eb6162bcd789
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee4833accf2e91479b1d0256acc5b8f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 549
+        width: 440
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a24b9bcbae1124c92ae0f02c0cf865
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_50
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32690b7e4064c2b42aa5e458c6145d68
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e3e3bbfa81c0342a938f90c39f8273
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_52
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6940554718712654ea0c868800396b3d
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_53
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503b542ff027d44481eb40093c4bf1c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_54
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f51c71578dcde4994abfb5137bf3a2
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_55
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 549
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f6b94b6527c02499ad2240dc32120d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0f9e2e3454663469cff95bf2b89a2c
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_57
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 37
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0df7d3f1d346147bd7aa353403a81f
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_58
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6919a7438dbea4f807b3598f5d7482
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_59
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083c7037e6bc1348a485bbc752918f0
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_60
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79bb428ccb7f8147aa8bda5113e0b1f
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_61
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbe6b85b141b2e408e5b40622386055
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_62
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059ac3baf933d1f4ba24b65ecd8561dd
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainbowsupport_63
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 37
+        width: 439
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86b46d72d505b8438cb097ef882e398
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3dae8ff04ab3150449235cf17dfb6aad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
