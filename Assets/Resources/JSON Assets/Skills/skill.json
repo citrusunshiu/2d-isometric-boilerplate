@@ -1,0 +1,43 @@
+{
+    "name": "Test Skill",
+    "description": "should be an int id referencing to the db; placeholder",
+    "longDescription": "should be an int id referencing to the db; placeholder, but longer",
+    "iconFilePath": "./",
+    "targetType": "Enemy",
+    "encounterSkillType": "Primary",
+    "aiSkillCategory": "Offensive",
+    "costs": [
+        {
+            "resource": "MP",
+            "value": 100
+        }
+    ],
+    "cooldown": 1,
+    "hits": [
+        {
+            "name": "First Hit",
+            "damage": 100,
+            "aggroModifier": 1,
+            "attributes": [
+                "Melee",
+                "Physical"
+            ],
+            "statuses": [
+                {
+                    "statusJSONFilePath": "./status.json",
+                    "procChance": 100
+                }
+            ]
+        },
+        {
+            "name": "Second Hit",
+            "damage": 200,
+            "aggroModifier": 1,
+            "attributes": [
+                "Melee",
+                "Physical"
+            ]
+        }
+    ],
+    "skillFunctionName": "TestSkill"
+}

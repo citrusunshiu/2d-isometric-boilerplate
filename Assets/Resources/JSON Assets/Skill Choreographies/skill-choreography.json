@@ -1,0 +1,30 @@
+{
+    "name": "Sample Skill Choreography",
+    "skillJSONFilePath": "./skill.json",
+    "animationScriptJSONFilePath": "./animation-script.json",
+    "animationScriptAnimationIndex": 0,
+    "totalFrames": 60,
+    "isAttackSpeedDependent": true,
+    "hitboxGroups": [
+        {
+            "delayFrames": 20,
+            "lingerFrames": 30,
+            "hitboxes": [
+                {
+                    "xPos": 1,
+                    "yPos": 0
+                }
+            ]
+        },
+        {
+            "startFrame": 50,
+            "lingerFrames": 5,
+            "hitboxes": [
+                {
+                    "xPos": 1,
+                    "yPos": 0
+                }
+            ]
+        }
+    ]
+}

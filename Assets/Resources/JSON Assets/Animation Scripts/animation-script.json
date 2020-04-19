@@ -1,0 +1,32 @@
+{
+    "name": "Test Animation Script",
+    "spritesheetFilePath": "./",
+    "animations": [
+        {
+            "name": "Test Animation",
+            "totalFrames": 60,
+            "sprites": [
+                {
+                    "startFrame": 0,
+                    "spriteIndex": 0
+                },
+                {
+                    "startFrame": 20,
+                    "spriteIndex": 1
+                },
+                {
+                    "startFrame": 30,
+                    "spriteIndex": 2
+                },
+                {
+                    "startFrame": 40,
+                    "spriteIndex": 1
+                },
+                {
+                    "startFrame": 50,
+                    "spriteIndex": 0
+                }
+            ]
+        }
+    ]
+}

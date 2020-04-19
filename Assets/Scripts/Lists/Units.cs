@@ -5,6 +5,7 @@ using UnityEngine;
 using YuguLibrary.Enumerations;
 using YuguLibrary.Models;
 
+/*
 namespace Units
 {
     public class TestUnit : Unit
@@ -64,4 +65,4 @@ namespace Units
 
         }
     }
-}
+} */

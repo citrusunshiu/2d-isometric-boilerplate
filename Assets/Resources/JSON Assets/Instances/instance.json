@@ -1,0 +1,36 @@
+{
+    "geographyName": "DummyRoom",
+    "province": "Unapolis",
+    "district": "DowntownUnapolis",
+    "area": "UnapolisDowntown",
+    "isHostile": true,
+    "unitSpawners": [
+        {
+            "unitJSONFilePath": "./unit.json",
+            "maxUnits": "3",
+            "areaOfEffect": {
+                "xPos": 27,
+                "yPos": 1,
+                "zPos": 1,
+                "radius": 5
+            },
+            "unitLevel": 50,
+            "unitSpawnTime": 60
+        }
+    ],
+    "loadingZones": [
+        {
+
+        }
+    ],
+    "eventMarkers": [
+        {
+
+        }
+    ],
+    "weather": [
+        {
+
+        }
+    ]
+}
