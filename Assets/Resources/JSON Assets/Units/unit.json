@@ -6,11 +6,11 @@
     "speedTier": "VeryFast",
     "skillResources": [
         {
-            "resource": "TestResource1",
+            "resource": "_gsIce",
             "maxValue": 100
         },
         {
-            "resource": "TestResource2",
+            "resource": "_gsFire",
             "maxValue": 5
         }
     ],
@@ -32,17 +32,17 @@
     ],
     "actions": [
         {
-            "className": "TestOWOAction"
+            "className": "YuguLibrary.OverworldObjectActions.TestOWOAction"
         }
     ],
     "overworldAIs": [
         {
-            "className": "RandomMove"
+            "className": "YuguLibrary.OverworldAIs.RandomMove"
         }
     ],
     "encounterAIs": [
         {
-            "className": "RandomSkill"
+            "className": "YuguLibrary.EncounterAIs.RandomSkill"
         }
     ]
 }

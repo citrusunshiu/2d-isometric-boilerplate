@@ -26,12 +26,12 @@ public class UnitDetectorController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        UnitJSONParser parser = new UnitJSONParser("unit.json");
         Debug.Log("udc started");
+        Unit unit = new Unit("unit.json", 1, TargetTypes.Ally);
         //TestUnit unit = new TestUnit(1, TargetTypes.Ally);
         unitDetector.LoadNewInstance(new DummyRoom(), new Vector3Int(11, 0, 1));
-        //UtilityFunctions.GetActiveUnitDetector().SpawnOverworldObject(unit, new Vector3Int(11, 0, 1));
-        //UtilityFunctions.GetActivePlayer().SetCurrentOverworldObject(unit);
+        UtilityFunctions.GetActiveUnitDetector().SpawnOverworldObject(unit, new Vector3Int(11, 0, 1));
+        UtilityFunctions.GetActivePlayer().SetCurrentOverworldObject(unit);
     }
 
     // Update is called once per frame
