@@ -1,9 +1,9 @@
 {
     "name": "Test Animation Script",
-    "spritesheetFilePath": "./",
+    "spritesheetFileName": "./",
     "animations": [
         {
-            "name": "Test Animation",
+            "nameID": "animiation_test_animation",
             "totalFrames": 60,
             "sprites": [
                 {

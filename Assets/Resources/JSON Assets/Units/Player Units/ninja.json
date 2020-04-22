@@ -1,18 +1,11 @@
 {
-    "nameID": "unit_sample_unit",
+    "nameID": "unit_ninja",
     "animationScriptJSONFileName": "animation-script.json",
     "role": "Melee",
     "classification": "Regular",
     "speedTier": "VeryFast",
     "skillResources": [
-        {
-            "resource": "_gsIce",
-            "maxValue": 100
-        },
-        {
-            "resource": "_gsFire",
-            "maxValue": 5
-        }
+        
     ],
     "hpScaling": 100,
     "mpScaling": 110,

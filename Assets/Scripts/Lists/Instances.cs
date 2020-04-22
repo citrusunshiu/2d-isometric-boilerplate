@@ -7,7 +7,7 @@ using YuguLibrary.Enumerations;
 namespace Instances
 {
     #region Playtesting
-    
+    /*
     public class DummyRoom : Instance
     {
         public override string GeographyName => "Dummy Room";
@@ -33,7 +33,8 @@ namespace Instances
         public override List<EventMarker> EventMarkers => throw new NotImplementedException();
 
         public override List<WeatherGenerator> Weather => throw new NotImplementedException();
-    }
+    } 
+    */
 
     #endregion
 

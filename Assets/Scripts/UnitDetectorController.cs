@@ -1,4 +1,5 @@
 ﻿using Instances;
+using Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections;
@@ -28,8 +29,12 @@ public class UnitDetectorController : MonoBehaviour
     {
         Debug.Log("udc started");
         Unit unit = new Unit("unit.json", 1, TargetTypes.Ally);
-        //TestUnit unit = new TestUnit(1, TargetTypes.Ally);
-        unitDetector.LoadNewInstance(new DummyRoom(), new Vector3Int(11, 0, 1));
+        Instance instance = new Instance("dummy-room.json");
+        Skill skill = new Skill("", 0, 0);
+
+        Debug.Log(UtilityFunctions.GetStringFromSQL("selection_yes"));
+        
+        unitDetector.LoadNewInstance(instance, new Vector3Int(11, 0, 1));
         UtilityFunctions.GetActiveUnitDetector().SpawnOverworldObject(unit, new Vector3Int(11, 0, 1));
         UtilityFunctions.GetActivePlayer().SetCurrentOverworldObject(unit);
     }

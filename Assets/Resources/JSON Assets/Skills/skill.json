@@ -1,7 +1,7 @@
 {
-    "name": "Test Skill",
-    "description": "should be an int id referencing to the db; placeholder",
-    "longDescription": "should be an int id referencing to the db; placeholder, but longer",
+    "nameID": "skill_test_skill",
+    "descriptionID": "skill_test_skill_description",
+    "longDescriptionID": "skill_test_skill_long_description",
     "iconFilePath": "./",
     "targetType": "Enemy",
     "encounterSkillType": "Primary",
@@ -15,7 +15,7 @@
     "cooldown": 1,
     "hits": [
         {
-            "name": "First Hit",
+            "nameID": "skill_test_skill_hit_first_Hit",
             "damage": 100,
             "aggroModifier": 1,
             "attributes": [
@@ -24,18 +24,51 @@
             ],
             "statuses": [
                 {
-                    "statusJSONFilePath": "./status.json",
+                    "statusJSONFileName": "status.json",
                     "procChance": 100
                 }
             ]
         },
         {
-            "name": "Second Hit",
+            "nameID": "skill_test_skill_hit_second_hit",
             "damage": 200,
             "aggroModifier": 1,
             "attributes": [
                 "Melee",
                 "Physical"
+            ]
+        }
+    ],
+    "skillChoreographies": [
+        {
+            "nameID": "skill_test_skill_choreography_1",
+            "animationScriptAnimationIndex": 0,
+            "totalFrames": 60,
+            "isAttackSpeedDependent": true,
+            "hitboxGroups": [
+                {
+                    "delayFrames": 20,
+                    "lingerFrames": 30,
+                    "hitboxes": [
+                        {
+                            "xPos": 1,
+                            "yPos": 0
+                        }
+                    ],
+                    "hitFunctionName": "TestSkillLogic",
+                    "hitIndex": 0
+                },
+                {
+                    "startFrame": 50,
+                    "lingerFrames": 5,
+                    "hitboxes": [
+                        {
+                            "xPos": 1,
+                            "yPos": 0
+                        }
+                    ],
+                    "hitIndex": 1
+                }
             ]
         }
     ],
