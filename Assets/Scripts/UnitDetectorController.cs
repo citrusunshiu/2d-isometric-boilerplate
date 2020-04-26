@@ -1,5 +1,4 @@
-﻿using Instances;
-using Models;
+﻿using Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections;
@@ -28,9 +27,10 @@ public class UnitDetectorController : MonoBehaviour
     void Start()
     {
         Debug.Log("udc started");
-        Unit unit = new Unit("unit.json", 1, TargetTypes.Ally);
+        Unit unit = new Unit("Sample/Sample Unit/unit.json", 1, TargetTypes.Ally);
         Instance instance = new Instance("dummy-room.json");
-        Skill skill = new Skill("", 0, 0);
+        Skill skill = new Skill("Sample/Sample Unit/Skills/skill.json", 0, 0);
+        AnimationScript animationScript = new AnimationScript("Sample/Sample Unit/unit-animation.json");
 
         Debug.Log(UtilityFunctions.GetStringFromSQL("selection_yes"));
         

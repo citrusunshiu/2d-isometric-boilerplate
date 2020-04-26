@@ -1,0 +1,66 @@
+{
+    "nameID": "Test Animation Script",
+    "spritesheetFileName": "testanimsheet",
+    "animationPatterns": [
+        {
+            "nameID": "animiation_test_animation_idle",
+            "totalFrames": 60,
+            "animationPatternSignals": [
+                {
+                    "startFrame": 0,
+                    "spriteIndex": 0
+                },
+                {
+                    "startFrame": 20,
+                    "spriteIndex": 1
+                },
+                {
+                    "startFrame": 30,
+                    "spriteIndex": 2
+                },
+                {
+                    "startFrame": 40,
+                    "spriteIndex": 1
+                },
+                {
+                    "startFrame": 50,
+                    "spriteIndex": 0
+                }
+            ]
+        },
+        {
+            "nameID": "animiation_test_animation_move",
+            "totalFrames": 30,
+            "animationPatternSignals": [
+                {
+                    "startFrame": 0,
+                    "spriteIndex": 10
+                },
+                {
+                    "startFrame": 5,
+                    "spriteIndex": 11
+                },
+                {
+                    "startFrame": 10,
+                    "spriteIndex": 12
+                },
+                {
+                    "startFrame": 15,
+                    "spriteIndex": 13
+                },
+                {
+                    "startFrame": 20,
+                    "spriteIndex": 14
+                },
+                {
+                    "startFrame": 25,
+                    "spriteIndex": 15
+                },
+                {
+                    "startFrame": 30,
+                    "spriteIndex": 16
+                }
+            ]
+        }
+    ]
+}

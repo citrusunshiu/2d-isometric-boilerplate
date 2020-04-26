@@ -1,0 +1,76 @@
+{
+    "nameID": "skill_test_skill",
+    "descriptionID": "skill_test_skill_description",
+    "longDescriptionID": "skill_test_skill_long_description",
+    "iconFilePath": "./",
+    "targetType": "Enemy",
+    "encounterSkillType": "Primary",
+    "aiSkillCategory": "Offensive",
+    "costs": [
+        {
+            "resource": "MP",
+            "value": 100
+        }
+    ],
+    "cooldown": 1,
+    "hits": [
+        {
+            "nameID": "skill_test_skill_hit_first_Hit",
+            "damageModifier": 100,
+            "aggroModifier": 1,
+            "attributes": [
+                "Melee",
+                "Physical"
+            ],
+            "statuses": [
+                {
+                    "statusJSONFileName": "status.json",
+                    "procChance": 100
+                }
+            ]
+        },
+        {
+            "nameID": "skill_test_skill_hit_second_hit",
+            "damage": 200,
+            "aggroModifier": 1,
+            "attributes": [
+                "Melee",
+                "Physical"
+            ]
+        }
+    ],
+    "skillChoreographies": [
+        {
+            "nameID": "skill_test_skill_choreography_1",
+            "animationPatternIndex": 0,
+            "totalFrames": 60,
+            "isAttackSpeedDependent": true,
+            "hitboxGroups": [
+                {
+                    "delayFrames": 20,
+                    "lingerFrames": 30,
+                    "hitboxes": [
+                        {
+                            "xPos": 1,
+                            "yPos": 0
+                        }
+                    ],
+                    "hitFunctionName": "TestSkillLogic",
+                    "hitIndex": 0
+                },
+                {
+                    "startFrame": 50,
+                    "lingerFrames": 5,
+                    "hitboxes": [
+                        {
+                            "xPos": 1,
+                            "yPos": 0
+                        }
+                    ],
+                    "hitIndex": 1
+                }
+            ]
+        }
+    ],
+    "skillFunctionName": "TestSkill"
+}
