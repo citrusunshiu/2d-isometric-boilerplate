@@ -55,7 +55,7 @@
                             "yPos": 0
                         }
                     ],
-                    "hitFunctionName": "TestSkillLogic",
+                    "hitFunctionName": "",
                     "hitIndex": 0
                 },
                 {
@@ -72,5 +72,5 @@
             ]
         }
     ],
-    "skillFunctionName": "TestSkill"
+    "skillFunctionName": ""
 }

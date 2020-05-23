@@ -1,0 +1,48 @@
+{
+    "nameID": "",
+    "scenes": [
+        {
+            "instanceJSONFileName": "",
+            "geologyInformation": {
+                "year": 1,
+                "season": "Spring",
+                "date": 1,
+                "time": "Early Morning"
+            },
+            "isCinematic": "true",
+            "units": [
+                {
+                    "unitJSONFileName": "",
+                    "unitPosition": {
+                        "xPos": 1,
+                        "yPos": 1,
+                        "zPos": 1
+                    }
+                }
+            ],
+            "sceneChoreographies": [
+                {
+                    "dialogue": {
+                        "speaker": "",
+                        "text": "",
+                        "portraitFileName": "",
+                        "portraitEmote": 0
+                    },
+                    "animations": [
+                        {
+                            "unitName": "",
+                            "unitIndex": 0,
+                            "moveToTile": {
+                                "xPos": 1,
+                                "yPos": 1,
+                                "zPos": 1
+                            },
+                            "animationIndex": 0
+                        }
+                    ]
+                }
+            ]
+
+        }
+    ]
+}

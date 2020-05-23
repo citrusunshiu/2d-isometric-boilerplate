@@ -28,14 +28,17 @@ public class UnitDetectorController : MonoBehaviour
     {
         Debug.Log("udc started");
         Unit unit = new Unit("Sample/Sample Unit/unit.json", 1, TargetTypes.Ally);
+        Unit enemyUnit = new Unit("Sample/Sample Unit/unit.json", 1, TargetTypes.Enemy);
         Instance instance = new Instance("dummy-room.json");
-        Skill skill = new Skill("Sample/Sample Unit/Skills/skill.json", 0, 0);
+        Skill skill = new SkillHub("Sample/Sample Unit/Skills/skill.json", 0, 0);
+        skill.ExecuteSkill();
         AnimationScript animationScript = new AnimationScript("Sample/Sample Unit/unit-animation.json");
 
         Debug.Log(UtilityFunctions.GetStringFromSQL("selection_yes"));
         
         unitDetector.LoadNewInstance(instance, new Vector3Int(11, 0, 1));
         UtilityFunctions.GetActiveUnitDetector().SpawnOverworldObject(unit, new Vector3Int(11, 0, 1));
+        UtilityFunctions.GetActiveUnitDetector().SpawnOverworldObject(enemyUnit, new Vector3Int(15, 0, 1));
         UtilityFunctions.GetActivePlayer().SetCurrentOverworldObject(unit);
     }
 
