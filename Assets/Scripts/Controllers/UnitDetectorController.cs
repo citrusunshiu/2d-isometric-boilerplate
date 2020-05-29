@@ -1,10 +1,4 @@
-﻿using Models;
-using Newtonsoft.Json;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Tilemaps;
 using YuguLibrary.Controllers;
 using YuguLibrary.Enumerations;
@@ -20,7 +14,7 @@ public class UnitDetectorController : MonoBehaviour
 
     void Awake()
     {
-        unitDetector = new UnitDetector(geography, indicators, this);
+        SetActiveUnitDetector(new UnitDetector(geography, indicators, this));
     }
 
     // Start is called before the first frame update
@@ -46,5 +40,10 @@ public class UnitDetectorController : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void SetActiveUnitDetector(UnitDetector unitDetector)
+    {
+        this.unitDetector = unitDetector;
     }
 }
