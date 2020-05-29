@@ -1,0 +1,41 @@
+{
+    "nameID": "unit_ninja",
+    "animationScriptJSONFileName": "animation-script.json",
+    "role": "Melee",
+    "classification": "Regular",
+    "speedTier": "VeryFast",
+    "skillResources": [
+        
+    ],
+    "hpScaling": 100,
+    "mpScaling": 110,
+    "mpRegenScaling": 30,
+    "physicalAttackScaling": 150,
+    "magicalAttackScaling": 160,
+    "physicalDefenseScaling": 170,
+    "magicalDefenseScaling": 180,
+    "speedScaling": 200,
+    "staggerThresholdScaling": 50,
+    "skills": [
+        {
+            "skillJSONFileName": "skill.json",
+            "levelObtained": 1,
+            "progressionPointObtained": 1
+        }
+    ],
+    "actions": [
+        {
+            "className": "YuguLibrary.OverworldObjectActions.TestOWOAction"
+        }
+    ],
+    "overworldAIs": [
+        {
+            "className": "YuguLibrary.OverworldAIs.RandomMove"
+        }
+    ],
+    "encounterAIs": [
+        {
+            "className": "YuguLibrary.EncounterAIs.RandomSkill"
+        }
+    ]
+}

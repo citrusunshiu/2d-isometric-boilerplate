@@ -1,0 +1,52 @@
+{
+    "nameID": "instance_dummy_room",
+    "geographyName": "dummy_room",
+    "province": "Unapolis",
+    "district": "DowntownUnapolis",
+    "area": "UnapolisDowntown",
+    "instanceCoordinates": {
+        "xPos": 1,
+        "yPos": 2,
+        "zPos": 3
+    },
+    "isHostile": true,
+    "unitSpawners": [
+        {
+            "unitJSONFileName": "unit.json",
+            "maxUnits": "3",
+            "areaOfEffect": {
+                "xPos": 15,
+                "yPos": 1,
+                "zPos": 1,
+                "radius": 5
+            },
+            "unitLevel": 50,
+            "unitSpawnTime": 60
+        }
+    ],
+    "loadingZones": [
+        {
+            "instanceJSONFileName": "instance.json",
+            "loadingZonePosition": {
+                "xPos": 11,
+                "yPos": 0,
+                "zPos": 1
+            },
+            "playerUnitSpawnPosition": {
+                "xPos": 0,
+                "yPos": 0,
+                "zPos": 1
+            }
+        }
+    ],
+    "eventMarkers": [
+        {
+
+        }
+    ],
+    "weather": [
+        {
+
+        }
+    ]
+}
