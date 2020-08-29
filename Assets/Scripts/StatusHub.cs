@@ -9,8 +9,14 @@ public class StatusHub : Status
     {
     }
 
+    #region Functions
+    #region Test Status
     private void TestStatus()
     {
         Debug.Log("Status:TestStatus running");
     }
+    #endregion
+
+
+    #endregion
 }

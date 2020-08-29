@@ -4,6 +4,9 @@
     "role": "Melee",
     "classification": "Regular",
     "speedTier": "VeryFast",
+	"baseMovementFrames": 5,
+	"baseDescentFrames": 5,
+	"baseAscentFrames": 5,
     "skillResources": [
         {
             "resource": "_gsIce",
