@@ -1,0 +1,80 @@
+{
+    "skill":
+    {
+        "nameID": "",
+        "summaryID": "",
+        "descriptionID": "",
+        "iconFileName": "",
+        "targetType": "",
+        "encounterSkillType": "",
+        "aiSkillCategory": "",
+        "costs": [],
+        "cooldown": 0,
+        "hits": [],
+        "skillChoreographies": [],
+        "skillFunctionName": ""
+    },
+    "cost":
+    {
+        "resource": "",
+        "value": 0
+    },
+    "hit":
+    {
+        "nameID": "",
+        "damageModifier": 0,
+        "aggroModifier": 0,
+        "attributes": [],
+        "statuses": []
+    },
+    "status":
+    {
+        "statusJSONFileName": "",
+        "procChance": 0
+    },
+    "skillChoreography":
+    {
+        "nameID": "",
+        "animationPatternIndex": 0,
+        "totalFrames": 0,
+        "isAttackSpeedDependent": true,
+        "hitboxGroups": []
+    },
+    "hitboxGroup":
+    {
+        "indicatorStartFrame": 0,
+        "activationFrame": 0,
+        "lingerFrames": 0,
+        "hitboxes": [
+            {
+                "xPos": 0,
+                "yPos": 0
+            }
+        ],
+        "hitFunctionName": "",
+        "hitIndex": 0
+    },
+    "damageModifierValues":
+    {
+        "low": 1000,
+        "moderate": 2000,
+        "high": 4000,
+        "heavy": 8000,
+        "massive": 16000
+    },
+    "aggroModifierValues":
+    {
+        "none": 0,
+        "low": 0.25,
+        "average": 0.5,
+        "high": 1,
+        "veryhigh": 2
+    },
+    "statusProcValues":
+    {
+        "low": 10,
+        "moderate": 30,
+        "high": 70,
+        "guaranteed": 100
+    }
+}

@@ -1,6 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using YuguLibrary.Controllers;
+using YuguLibrary.Enumerations;
+using YuguLibrary.Utilities;
 
 public class LandingScript : MonoBehaviour
 {
@@ -27,7 +31,10 @@ public class LandingScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("in landing");
         LoadPlayerFiles();
+        UtilityFunctions.GetActiveUIManager().PushUI(YuguUIScreens.Landing, true);
+        UtilityFunctions.GetActiveUIManager().PushUI(YuguUIScreens.Landing_FileSelect, false);
     }
 
     // Update is called once per frame
@@ -41,16 +48,22 @@ public class LandingScript : MonoBehaviour
         switch (option)
         {
             case PlayerOptions.File1:
+                LoadInstanceFromPlayerFile(file1);
                 break;
             case PlayerOptions.File2:
+                LoadInstanceFromPlayerFile(file2);
                 break;
             case PlayerOptions.File3:
+                LoadInstanceFromPlayerFile(file3);
                 break;
             case PlayerOptions.EncounterTest:
+                LoadInstanceFromPlayerFile(encounterTest);
                 break;
             case PlayerOptions.ActionTest:
+                LoadInstanceFromPlayerFile(actionTest);
                 break;
             case PlayerOptions.OverworldStroll:
+                LoadInstanceFromPlayerFile(overworldStroll);
                 break;
             case PlayerOptions.Options:
                 break;
@@ -59,7 +72,8 @@ public class LandingScript : MonoBehaviour
 
     private void LoadInstanceFromPlayerFile(PlayerFile playerFile)
     {
-
+        UtilityFunctions.SetCurrentFile(playerFile);
+        SceneManager.LoadScene("Instance");
     }
 
     private void LoadPlayerFiles()

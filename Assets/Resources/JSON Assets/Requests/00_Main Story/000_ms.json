@@ -1,0 +1,44 @@
+{
+    "nameID": "mainStory",
+    "questParts": [
+        {
+            "partType": "reach_date",
+            "questPartData": {
+                "year": 1,
+                "season": "Spring",
+                "date": 30,
+                "time": ""
+            },
+            "onStartGameEvents": [
+                {
+                    "eventType": "change_date",
+                    "gameEventData": {
+                        "year": 1,
+                        "season": "Spring",
+                        "date": 30,
+                        "time": "Night"
+                    }
+                }
+            ],
+            "onEndGameEvents": [
+                {
+                    "eventType": "play_cutscene",
+                    "gameEventData": {
+                        "cutsceneJSONFileName": "00_Main Story/01_Y1SP/00_y1sp30-1.json"
+                    }
+                }
+            ]
+        },
+        {
+            "partType": "reach_area",
+            "questPartData": {
+                "provinceName": "Unapolis",
+                "districtName": "",
+                "areaName": "",
+                "instanceJSONFileName": ""
+            },
+            "onStartGameEvents": [],
+            "onEndGameEvents": []
+        }
+    ]
+}

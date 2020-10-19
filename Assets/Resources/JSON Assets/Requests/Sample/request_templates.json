@@ -1,0 +1,63 @@
+{
+    "quest": 
+    {
+        "nameID": "",
+        "questParts": []
+    },
+    "questPart":
+    {
+        "partType": "",
+        "questPartData": {},
+        "onStartGameEvents": [],
+        "onEndGameEvents": []
+    },
+    "reachDateQuestPart":
+    {
+        "year": 0,
+        "season": "",
+        "date": 0,
+        "time": ""
+    },
+    "reachAreaQuestPart":
+    {
+        "provinceName": "",
+        "districtName": "",
+        "areaName": "",
+        "instanceJSONFileName": ""
+    },
+    "reachAreaCheckpointQuestPart":
+    {
+        "instanceJSONFileName": "",
+        "positions": []
+    },
+    "defeatUnitsQuestPart":
+    {
+        "unitJSONFileName": "",
+        "defeatCount": 0
+    },
+    "interactUnitQuestPart":
+    {
+        "unitJSONFileName": ""
+    },
+    "gameEvent":
+    {
+        "eventType": "",
+        "gameEventData": {}
+    },
+    "playCutsceneGameEvent":
+    {
+        "cutsceneJSONFileName": ""
+    },
+    "changeDateGameEvent":
+    {
+        "year": 0,
+        "season": "",
+        "date": 0,
+        "time": ""
+    },
+    "moveLocationGameEvent":
+    {
+        "instanceJSONFileName": "",
+        "position": {}
+    }
+}

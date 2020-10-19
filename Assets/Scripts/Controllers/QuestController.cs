@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RequestController : MonoBehaviour
+public class QuestController : MonoBehaviour
 {
+    public QuestManager questManager;
     // Start is called before the first frame update
     void Start()
     {

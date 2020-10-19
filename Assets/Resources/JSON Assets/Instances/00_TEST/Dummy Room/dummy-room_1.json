@@ -26,14 +26,14 @@
     ],
     "loadingZones": [
         {
-            "instanceJSONFileName": "instance.json",
+            "instanceJSONFileName": "00_TEST/Dummy Room/dummy-room_1.json",
             "loadingZonePosition": {
-                "xPos": 11,
-                "yPos": 0,
-                "zPos": 1
+                "xPos": 12,
+                "yPos": 1,
+                "zPos": 0
             },
             "playerUnitSpawnPosition": {
-                "xPos": 0,
+                "xPos": 3,
                 "yPos": 0,
                 "zPos": 1
             }

@@ -29,14 +29,10 @@
             
         }
     ],
-    "overworldAIs": [
+    "unitAIs": [
         {
             
         }
     ],
-    "encounterAIs": [
-        {
-            
-        }
-    ]
+    "unitAIFunctionName": "TestUnitAIHub"
 }

@@ -1,0 +1,113 @@
+{
+    "nameID": "skill_air_ball",
+    "summaryID": "skill_air_ball_summary",
+    "descriptionID": "skill_air_ball_description",
+    "iconFileName": "",
+    "targetType": "Enemy",
+    "encounterSkillType": "Primary",
+    "aiSkillCategory": "Offensive",
+    "costs": [
+        {
+            "resource": "MP",
+            "value": 100
+        }
+    ],
+    "cooldown": 1,
+    "hits": [
+        {
+            "nameID": "skill_air_ball_hit_multihit",
+            "damageModifier": 1000,
+            "aggroModifier": 0.5,
+            "attributes": [
+                "Magical",
+                "Wind",
+                "Projectile",
+                "Spellcast"
+            ],
+            "statuses": []
+        },
+        {
+            "nameID": "skill_air_ball_hit_explosion",
+            "damage": 2000,
+            "aggroModifier": 0.5,
+            "attributes": [
+                "Magical",
+                "Wind",
+                "Projectile",
+                "Spellcast"
+            ],
+            "statuses": []
+        }
+    ],
+    "skillChoreographies": [
+        {
+            "nameID": "skill_air_ball_projectile_fire",
+            "animationPatternIndex": 0,
+            "totalFrames": 60,
+            "isAttackSpeedDependent": true,
+            "hitboxGroups": [
+                {
+                    "indicatorStartFrame": 0,
+                    "activationFrame": 0,
+                    "lingerFrames": 0,
+                    "hitboxes": [
+                        {
+                            "xPos": 1,
+                            "yPos": 0
+                        }
+                    ],
+                    "hitFunctionName": "",
+                    "hitIndex": 0
+                }
+            ]
+        },
+        {
+            "nameID": "skill_air_ball_projectile_connect",
+            "animationPatternIndex": 0,
+            "totalFrames": 60,
+            "isAttackSpeedDependent": false,
+            "hitboxGroups": [
+                {
+                    "indicatorStartFrame": 0,
+                    "activationFrame": 0,
+                    "lingerFrames": 0,
+                    "hitboxes": [
+                        {
+                            "xPos": 1,
+                            "yPos": 0
+                        }
+                    ],
+                    "hitFunctionName": "",
+                    "hitIndex": 0
+                },
+                {
+                    "indicatorStartFrame": 0,
+                    "activationFrame": 0,
+                    "lingerFrames": 0,
+                    "hitboxes": [
+                        {
+                            "xPos": 1,
+                            "yPos": 0
+                        }
+                    ],
+                    "hitFunctionName": "",
+                    "hitIndex": 0
+                },
+                {
+                    "indicatorStartFrame": 0,
+                    "activationFrame": 0,
+                    "lingerFrames": 0,
+                    "hitboxes": [
+                        {
+                            "xPos": 1,
+                            "yPos": 0
+                        }
+                    ],
+                    "hitFunctionName": "",
+                    "hitIndex": 1
+                }
+            ]
+        }
+    ],
+    "skillFunctionName": ""
+}
