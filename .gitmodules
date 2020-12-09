@@ -1,0 +1,7 @@
+[submodule "Yugu Library"]
+		path = Assets/Scripts/Yugu Library
+		url = https://github.com/citrusunshiu/yugu-library
+		
+[submodule "JSONsHubs"]
+		path = Assets/JSONsHubs
+		url = https://github.com/citrusunshiu/yugu-jsons-hubs
