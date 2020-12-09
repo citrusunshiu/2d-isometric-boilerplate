@@ -1,0 +1,3 @@
+[submodule "Yugu Library"]
+		path = Assets/Scripts/Yugu Library
+		url = https://github.com/citrusunshiu/yugu-library
