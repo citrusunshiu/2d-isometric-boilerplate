@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using UIConfirgurations;
+using UnityEngine;
 using UnityEngine.Tilemaps;
 using YuguLibrary.Controllers;
 using YuguLibrary.Enumerations;
@@ -21,21 +22,8 @@ public class UnitDetectorController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("udc started");
-        Unit unit = new Unit("Sample/Sample Unit/unit.json", 1, TargetTypes.Ally);
-        Unit enemyUnit = new Unit("Sample/Sample Unit/unit.json", 1, TargetTypes.Enemy);
-        Instance instance = new Instance("00_TEST/Dummy Room/dummy-room_1.json");
-        AnimationScript animationScript = new AnimationScript("Sample/Sample Unit/unit-animation.json");
-        Skill skill = new SkillHub("Sample/Sample Unit/Skills/skill.json", 0, 0);
-        skill.AttachSkillToUnit(unit);
 
-        Debug.Log(UtilityFunctions.GetStringFromSQL("selection_yes"));
-        
-        unitDetector.LoadNewInstance(instance, new Vector3Int(11, 0, 1), unit);
-        //UtilityFunctions.GetActiveUnitDetector().SpawnOverworldObject(enemyUnit, new Vector3Int(7, 0, 1));
-        //skill.ExecuteSkill();
-
-        unit.AddOverworldObjectAction(new UseSkill(ControllerInputs.None, KeyCode.X, unit, skill));
+        UtilityFunctions.GetActiveUIManager().PushUI(new UICOverworld(), true);
     }
 
     // Update is called once per frame
