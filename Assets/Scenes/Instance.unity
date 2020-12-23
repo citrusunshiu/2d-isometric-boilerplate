@@ -188,6 +188,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Controller Hub
       objectReference: {fileID: 0}
+    - target: {fileID: 1877768336835338130, guid: 5b7b4b21ddb7fd94bbb735376bfcf802,
+        type: 3}
+      propertyPath: m_Interactable
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3424087915585183992, guid: 5b7b4b21ddb7fd94bbb735376bfcf802,
         type: 3}
       propertyPath: m_SortingOrder
@@ -198,5 +203,22 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0.1
       objectReference: {fileID: 0}
+    - target: {fileID: 4662350936711973701, guid: 5b7b4b21ddb7fd94bbb735376bfcf802,
+        type: 3}
+      propertyPath: uiEventHandler
+      value: 
+      objectReference: {fileID: 1320638286}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b7b4b21ddb7fd94bbb735376bfcf802, type: 3}
+--- !u!114 &1320638286 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1596445956330793937, guid: 5b7b4b21ddb7fd94bbb735376bfcf802,
+    type: 3}
+  m_PrefabInstance: {fileID: 1320638285}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

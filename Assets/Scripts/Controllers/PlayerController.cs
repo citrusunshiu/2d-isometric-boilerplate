@@ -19,7 +19,10 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("pc started");
+        if(player != null)
+        {
+            player.LoadPlayerFile();
+        }
     }
 
     // Update is called once per frame

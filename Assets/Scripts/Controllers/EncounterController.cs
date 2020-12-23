@@ -7,6 +7,11 @@ public class EncounterController : MonoBehaviour
 {
     public Encounter encounter;
 
+    void Awake()
+    {
+        SetActiveEncounter(new Encounter(this));
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +21,11 @@ public class EncounterController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
+    }
+
+    void SetActiveEncounter(Encounter encounter)
+    {
+        this.encounter = encounter;
     }
 }

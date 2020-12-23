@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UIConfirgurations;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using YuguLibrary.Controllers;
@@ -19,9 +20,7 @@ public class LandingScript : MonoBehaviour
         Options
     };
 
-    PlayerFile file1;
-    PlayerFile file2;
-    PlayerFile file3;
+    List<PlayerFile> files;
 
     PlayerFile encounterTest;
     PlayerFile actionTest;
@@ -31,59 +30,14 @@ public class LandingScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("in landing");
-        LoadPlayerFiles();
-        UtilityFunctions.GetActiveUIManager().PushUI(YuguUIScreens.Landing, true);
-        UtilityFunctions.GetActiveUIManager().PushUI(YuguUIScreens.Landing_FileSelect, false);
+        files = new List<PlayerFile>();
+        UtilityFunctions.GetActiveUIManager().PushUI(new UICLandingFileSelect(), false);
+        //LoadInstanceFromPlayerFile(files[0]);
     }
 
     // Update is called once per frame
     void Update()
     {
         
-    }
-
-    private void SelectOption(PlayerOptions option)
-    {
-        switch (option)
-        {
-            case PlayerOptions.File1:
-                LoadInstanceFromPlayerFile(file1);
-                break;
-            case PlayerOptions.File2:
-                LoadInstanceFromPlayerFile(file2);
-                break;
-            case PlayerOptions.File3:
-                LoadInstanceFromPlayerFile(file3);
-                break;
-            case PlayerOptions.EncounterTest:
-                LoadInstanceFromPlayerFile(encounterTest);
-                break;
-            case PlayerOptions.ActionTest:
-                LoadInstanceFromPlayerFile(actionTest);
-                break;
-            case PlayerOptions.OverworldStroll:
-                LoadInstanceFromPlayerFile(overworldStroll);
-                break;
-            case PlayerOptions.Options:
-                break;
-        }
-    }
-
-    private void LoadInstanceFromPlayerFile(PlayerFile playerFile)
-    {
-        UtilityFunctions.SetCurrentFile(playerFile);
-        SceneManager.LoadScene("Instance");
-    }
-
-    private void LoadPlayerFiles()
-    {
-        file1 = new PlayerFile();
-        file2 = new PlayerFile();
-        file3 = new PlayerFile();
-
-        encounterTest = new PlayerFile();
-        actionTest = new PlayerFile();
-        overworldStroll = new PlayerFile();
     }
 }
