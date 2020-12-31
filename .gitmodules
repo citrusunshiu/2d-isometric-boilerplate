@@ -4,4 +4,4 @@
 		
 [submodule "JSONsHubs"]
 		path = Assets/JSONsHubs
-		url = https://github.com/citrusunshiu/yugu-jsons-hubs
+		url = https://github.com/citrusunshiu/sample-jsons-hubs

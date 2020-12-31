@@ -1,0 +1,1890 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://normanderwan.github.io/DocFxForUnity/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://normanderwan.github.io/DocFxForUnity/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "c:/Users/Ntori/Citrus Studio Works/2d-isometric-boilerplate/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.AStarNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.AStarNode.html",
+          "hash": "ghtplL+128ysYKpK4dfRmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.CutsceneController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.CutsceneController.html",
+          "hash": "HKLd+1qv7jCxUr+iVUbB+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.EncounterAIAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.EncounterAIAction.html",
+          "hash": "GhddBt3Tx81IpqQoEQDb3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.EncounterController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.EncounterController.html",
+          "hash": "LwHbnl2QTqDqnioIZetXUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.EventMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.EventMarker.html",
+          "hash": "T+NGW5OZcive/Jlvmin0lA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.GeologyController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.GeologyController.html",
+          "hash": "Uoo07UNn4eHt/+YTvEwwDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.Hitbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.Hitbox.html",
+          "hash": "03+hE/LIeL8hkSfTaun2qg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.InteractionFunctions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.InteractionFunctions.html",
+          "hash": "tFpVkl9YgGuONARkSpWxqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.LandingScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.LandingScript.html",
+          "hash": "LFZPYoiBbHoXkadRoy4Zhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.OverworldAIAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.OverworldAIAction.html",
+          "hash": "jzMFqQZGA7sqeYtlu8O5mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.PlayerController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.PlayerController.html",
+          "hash": "dy9YiTYzU9q2JsXTDZlhtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.PlayerFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.PlayerFile.html",
+          "hash": "SsArO507dD1d78gZKV3CfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.PlayerUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.PlayerUnit.html",
+          "hash": "fAnMsYVeGDFa9i3eENYBSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.QuestController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.QuestController.html",
+          "hash": "exLbBV8iKBPEmKPBiI2fmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.QuestManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.QuestManager.html",
+          "hash": "6nE97yFK87MN4ECqB7dstQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializablePlayerFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializablePlayerFile.html",
+          "hash": "KKs59HtjmdOn9wQ2F7AE6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SkillHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SkillHub.html",
+          "hash": "7wv4JC+88bL7ZN+gXyi1SA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SpecialTile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SpecialTile.html",
+          "hash": "j6zXRpkQkPYopapghmqrUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.StatusHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.StatusHub.html",
+          "hash": "ka8pSLwtIQyxPMPbZdhc6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.UIConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.UIConfiguration.html",
+          "hash": "w1q3neiTnC+7YgvxrQhEQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.UIController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.UIController.html",
+          "hash": "0Glst8UX7Wm7xWrXIqwngg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.UnitAIHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.UnitAIHub.html",
+          "hash": "tJtTFCMkZmCk/5SfJCvAEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.UnitCombatInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.UnitCombatInfo.html",
+          "hash": "BFbI5HigTceOXP5YhSznUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.UnitDetectorController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.UnitDetectorController.html",
+          "hash": "M5+Rc/hcfm2OB5vGGwu+DQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.UnitInteractionVisual.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.UnitInteractionVisual.html",
+          "hash": "+rUv3iYnHyNfIMF5twrYoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.UnitSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.UnitSetup.html",
+          "hash": "yjhrSk09gR26ew8QB5TlLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.VisualEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.VisualEffect.html",
+          "hash": "htoawA6ynlBj5U4TGdPH8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.html",
+          "hash": "HdtRrkm4/w03/PV1Fj5GUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Controllers.Encounter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Controllers.Encounter.html",
+          "hash": "eNlcx6VIvk3Yy1Kh4/s4nQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Controllers.Geology.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Controllers.Geology.html",
+          "hash": "I7JSkEXWPQuAZn2nWZ1vPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Controllers.HitboxTile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Controllers.HitboxTile.html",
+          "hash": "nEbRacbaLluPm3nipN4hlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Controllers.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Controllers.Player.html",
+          "hash": "Ehr15Uk0n+z0tb03PUOkvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Controllers.UIManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Controllers.UIManager.html",
+          "hash": "pIRYcUesDEWLbVpCIU6/gw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Controllers.UnitDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Controllers.UnitDetector.html",
+          "hash": "5YVt8N9Z29GIn8EXxlyYWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Controllers.html",
+          "hash": "nBYH2pBICAAYwOC9qEkgyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.EncounterAIs.RandomSkill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.EncounterAIs.RandomSkill.html",
+          "hash": "+U9JlCFWzIhf665yPf57LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.EncounterAIs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.EncounterAIs.html",
+          "hash": "lMtkRUAarbkc+Q8Oo3Zvmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.AISkillCategories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.AISkillCategories.html",
+          "hash": "8jsWYEBBSiufvV0qEKRRug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.AnimationTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.AnimationTypes.html",
+          "hash": "f1nhBDdnl1UsN1stlaj5qg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.Areas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.Areas.html",
+          "hash": "+v5xUaX+fCEqgMCLCOMHMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.AttackingDirections.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.AttackingDirections.html",
+          "hash": "mW/5eX77COUM3RMYKAEMyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.ControllerInputs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.ControllerInputs.html",
+          "hash": "V1GJp4gKdKl4BDfcXio4Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.DelegateFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.DelegateFlags.html",
+          "hash": "8WRCbwqj9fNqSVjYGYgPRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.Directions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.Directions.html",
+          "hash": "4bxm6gLJFkfX4n13P+TeEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.Districts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.Districts.html",
+          "hash": "qQC1ciS4lb6314oxWY6fWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.Effectiveness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.Effectiveness.html",
+          "hash": "LQK9T0Q4jC1EixRE7TVVEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.EncounterEndstates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.EncounterEndstates.html",
+          "hash": "nX8yhiBY6EOTOyzR++TdcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.EncounterTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.EncounterTypes.html",
+          "hash": "Snxb16GJB0rBL++9qQPYig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.EnemyTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.EnemyTypes.html",
+          "hash": "AzsiiZ0Ezy5ToKSxMcdcNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.HitAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.HitAttributes.html",
+          "hash": "IElJWpq4ar/OA2U1JYEoiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.OldUIScreens.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.OldUIScreens.html",
+          "hash": "KLM0bZKugbUmzlBGfpg1Uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.Provinces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.Provinces.html",
+          "hash": "qkZ8e98NN+UBAjraCelKIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.RequestStatuses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.RequestStatuses.html",
+          "hash": "wRZYLA9YHpzhMe3vse+oUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.RequestTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.RequestTypes.html",
+          "hash": "5b4AFcCXI8jyWtKp+ZdO0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.Requests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.Requests.html",
+          "hash": "nnnbMwrGUYxilXzK9hZFFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.Seasons.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.Seasons.html",
+          "hash": "e+Ge8KQJ/QNI3S8mEjcShQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.SkillResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.SkillResources.html",
+          "hash": "qIod0XUXfE4GPFZ7LSOmzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.SkillTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.SkillTypes.html",
+          "hash": "w1egkUzCipIyW+nJIrtH0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.SpeedTiers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.SpeedTiers.html",
+          "hash": "ZYQbZCl8KUwSizbDta46sw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.StatusEffects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.StatusEffects.html",
+          "hash": "mtVyhSaOkG73rK3oEoHO0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.StatusTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.StatusTypes.html",
+          "hash": "iiW8l+TYoYAWMiXyefvmjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.TargetTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.TargetTypes.html",
+          "hash": "bER1tYlAPoTFrwBYed24Ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.TileIndicatorTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.TileIndicatorTypes.html",
+          "hash": "xysz3pXm3oX7Ft3T8Y9VNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.TileTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.TileTypes.html",
+          "hash": "mbDX2m4EctSBUnAHLga2vw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.Times.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.Times.html",
+          "hash": "/Smk+6+mP0j3tO9a8XDQ1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.UIButtonModes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.UIButtonModes.html",
+          "hash": "/r9VQAfFrbic2NuINW9hwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.UIScreens.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.UIScreens.html",
+          "hash": "fveh86e3c3z7ghzCz9CQ8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.UnitAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.UnitAttributes.html",
+          "hash": "BZogDtdqbo6nWfLA+RtQlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.UnitClassifications.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.UnitClassifications.html",
+          "hash": "UuF4nsy+em6ZNXcYMAaZbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.UnitRoles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.UnitRoles.html",
+          "hash": "SySTITXFpKwh2mZip2EFtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.UnitStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.UnitStats.html",
+          "hash": "7CdfjRQ0Y5ymBdceBp3Jug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.WeatherConditions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.WeatherConditions.html",
+          "hash": "yIWH/QHVO7QQK4zxDVjiYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Enumerations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Enumerations.html",
+          "hash": "i5C1g08F5c1chvwUazSO1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.HookBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.HookBundle.html",
+          "hash": "4fM4fyCnj85USdFpM5MiJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.HookFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.HookFunction.html",
+          "hash": "Ct9ITkraOAf29VhNggwlGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.IncapacitationHookBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.IncapacitationHookBundle.html",
+          "hash": "joG+/iYkmi1sWnR06ozGrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.AggroSpread.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.AggroSpread.html",
+          "hash": "uC6xbam0HBUqBSgDscSsyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.AnimationPattern.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.AnimationPattern.html",
+          "hash": "Q9ZKQFAxGAI9lw/8FlS/ig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.AnimationPatternSignal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.AnimationPatternSignal.html",
+          "hash": "y/BU+JgfwXY4x3ymEfeSew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.AnimationScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.AnimationScript.html",
+          "hash": "OSxw9TLzTvK26TzA2GEF1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.AreaOfEffect.AreaOfEffectShapes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.AreaOfEffect.AreaOfEffectShapes.html",
+          "hash": "Fp2hb31fGsW4cgFzjtw/Wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.AreaOfEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.AreaOfEffect.html",
+          "hash": "odEUX9LDmDtxPs4/J+/3og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.CCResistanceBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.CCResistanceBar.html",
+          "hash": "6MLv8Lc1onOjEPIdshUC2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Cutscene.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Cutscene.html",
+          "hash": "pAmQXoTvQgZL4wBH52wO/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Dialogue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Dialogue.html",
+          "hash": "MCkceJaRh9JoBYuQSYNr0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.EncounterAI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.EncounterAI.html",
+          "hash": "A+2doGxegymzi2W2cuVf0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.GameEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.GameEvent.html",
+          "hash": "F6ef+BIhrheCeCnz4dG87w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Hit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Hit.html",
+          "hash": "EniWcsb7cdi7Q6nC/2gt8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.HitCalculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.HitCalculation.html",
+          "hash": "8sX0mLPu00A5woyUN+Dp9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Instance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Instance.html",
+          "hash": "Dgfyk1fmK70GUwWoFQMTDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Item.html",
+          "hash": "jTEpZRa5kKce/fBdyRqsYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.LoadingZone.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.LoadingZone.html",
+          "hash": "mXvqOAJOqaaKVjZ1CxDqmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.OverworldObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.OverworldObject.html",
+          "hash": "Tb++xlY3zD1rLYTaOylN5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.OverworldObjectAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.OverworldObjectAction.html",
+          "hash": "KT1VuOsMacX0qvyHkGQw3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Quest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Quest.html",
+          "hash": "e04IZpCpjVCblDw1zh2ryA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Scene.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Scene.html",
+          "hash": "TG6F01z45j95hTThGKNySw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.SceneAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.SceneAnimation.html",
+          "hash": "2V9IYBr/cf3r8gLmJNUgMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.SceneChoreography.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.SceneChoreography.html",
+          "hash": "+xLSRIk6Zt7FfkDgZcGzqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Skill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Skill.html",
+          "hash": "/ZlwcT1xBNJgRuEN8JhOkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.SkillChoreography.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.SkillChoreography.html",
+          "hash": "AZ4xbwjOemmC9X6Z60wLeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.SkillResource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.SkillResource.html",
+          "hash": "QbHU0kXf5fPl2hZpfEJzMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.Unit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.Unit.html",
+          "hash": "Gn7TrfiWDx4Ox+ZSKgcDrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.UnitAI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.UnitAI.html",
+          "hash": "G97NQHafQ4FAqh+tjoIWxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.UnitAIAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.UnitAIAction.html",
+          "hash": "9UySF7boXFAk5A2lPU4xlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.UnitAILogic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.UnitAILogic.html",
+          "hash": "AO8vAjCwebk5SG3nv+aS4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.UnitSpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.UnitSpawner.html",
+          "hash": "tY3b4PHtMEZse6BRvpt2gQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.UnitTurn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.UnitTurn.html",
+          "hash": "piAaHQeHEGO5irc49assuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.WeatherGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.WeatherGenerator.html",
+          "hash": "rK6s7mg5VmOEb3LK9+BJtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Models.html",
+          "hash": "cheqvO1WaVqljBbSe88zKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.FloatAscend.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.FloatAscend.html",
+          "hash": "Sfx6EyiwkDhcayQlsqf3iw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.FloatDescend.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.FloatDescend.html",
+          "hash": "45n4dHB5LGoUdjXDDiKa8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.Interact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.Interact.html",
+          "hash": "C+PiGo4xFrYyvlgTdoMh5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.Jump.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.Jump.html",
+          "hash": "PN90CFVdxTpMN+LvvLl8EQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.TestOWOAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.TestOWOAction.html",
+          "hash": "owwLnIariHz+34dGiSm8DQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.ToggleManualMovement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.ToggleManualMovement.html",
+          "hash": "9PWmjvw2z0N28ayRew2vow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.ToggleRun.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.ToggleRun.html",
+          "hash": "6aZkoMHaaGxyCRXoaq1emw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.ToggleStationary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.ToggleStationary.html",
+          "hash": "dyc0ECRCSECNNQA99kWHSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.ToggleTurn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.ToggleTurn.html",
+          "hash": "ukDs+axQB/lLpMrYC8iZng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.UseSkill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.UseSkill.html",
+          "hash": "FgvvR7RjfjWzkLEgMCW83A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectActions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectActions.html",
+          "hash": "G43Bi04DNbgbY8x/AyfD3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.OverworldObjectCoordinator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.OverworldObjectCoordinator.html",
+          "hash": "DzYBCzvVy1bNyGwDOnpsqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.RoundEndHookBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.RoundEndHookBundle.html",
+          "hash": "ZeWwM4a4KLGJ0SsjQFXfRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.RoundStartHookBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.RoundStartHookBundle.html",
+          "hash": "r2I5JipNluYanhvWQZczFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Status.html",
+          "hash": "OiP5T5LA7nKHL6mt3iwkrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.StatusAppliedHookBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.StatusAppliedHookBundle.html",
+          "hash": "F6SsBReblKf6xVVJ7AxZ5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.StatusRemovedHookBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.StatusRemovedHookBundle.html",
+          "hash": "m5JsNEQu+Ml14lFXfk5iXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.StatusStack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.StatusStack.html",
+          "hash": "BbnkJ69JbjyS2+Jv1T8U6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.TurnEndHookBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.TurnEndHookBundle.html",
+          "hash": "hXClWryTsMM4ASJaviDxIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.TurnStartHookBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.TurnStartHookBundle.html",
+          "hash": "CX/a+yez/DNbr0PAF8JbTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.AnimationScriptJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.AnimationScriptJSONParser.html",
+          "hash": "2Hx8eRFxNr68huhpGsiWqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.CutsceneJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.CutsceneJSONParser.html",
+          "hash": "cqX8e1OdEV3Ox2XhLSQFrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.HitEffectJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.HitEffectJSONParser.html",
+          "hash": "kZd7RmqiDYrW2tyufs3rtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.InstanceJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.InstanceJSONParser.html",
+          "hash": "mErpfhFm174uc1mBZD3deQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.ItemJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.ItemJSONParser.html",
+          "hash": "AmHCPNXcK+obTcdzmrXJ8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.JSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.JSONParser.html",
+          "hash": "nbmQ9rTum041FVYLoxpnaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.ProjectConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.ProjectConfiguration.html",
+          "hash": "KwJdw+I/+jZTll8GoSJHkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.QuestJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.QuestJSONParser.html",
+          "hash": "w9c17Iz4fah9RIMMB6Htvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.SkillJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.SkillJSONParser.html",
+          "hash": "lW0lMjKN51TFwr5BC+iLVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.StatusJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.StatusJSONParser.html",
+          "hash": "AeB7OigLbry3RSUCxrdoOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.UnitJSONParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.UnitJSONParser.html",
+          "hash": "3fnYvinG0ukjKrI4MbDUyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.UtilityFunctions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.UtilityFunctions.html",
+          "hash": "73zIgyTI1kzhJKpr1KicxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.Utilities.html",
+          "hash": "vmPq/oa1hk2i6YEBIlfENg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YuguLibrary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YuguLibrary.html",
+          "hash": "CxoNJMmT9vPBGHnS5yRzCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "id3ktc/ky18ApLGdVmmjvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Peh7mGOrCjfEbX3x/z9iiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/coniunctis.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/coniunctis.html",
+          "hash": "Prwn1PDGvAWLNBEAb7YNVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/etiam.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/etiam.html",
+          "hash": "HOZa8wE+KNEzlHi+lQQ97A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "2q0qq03gpYNjYV8lSAAcVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/ExampleManual.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/ExampleManual.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/ExampleScriptingApi.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/ExampleScriptingApi.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "M8FaMcuvInEzB8I/V171Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 144,
+          "skipped_file_count": 144
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

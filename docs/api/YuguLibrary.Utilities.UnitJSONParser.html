@@ -1,0 +1,891 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class UnitJSONParser
+   | Example Unity documentation </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class UnitJSONParser
+   | Example Unity documentation ">
+    <meta name="generator" content="docfx 2.56.6.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="YuguLibrary.Utilities.UnitJSONParser">
+  
+  
+  <h1 id="YuguLibrary_Utilities_UnitJSONParser" data-uid="YuguLibrary.Utilities.UnitJSONParser" class="text-break">Class UnitJSONParser
+  </h1>
+  <div class="markdown level0 summary"><p>Parses data from a JSON file into a <a class="xref" href="YuguLibrary.Models.Unit.html">Unit</a> object.</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.object">Object</a></div>
+    <div class="level1"><a class="xref" href="YuguLibrary.Utilities.JSONParser.html">JSONParser</a></div>
+    <div class="level2"><span class="xref">UnitJSONParser</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="YuguLibrary.Utilities.JSONParser.html#YuguLibrary_Utilities_JSONParser_CheckForProperty_System_String_Newtonsoft_Json_JsonTextReader_">JSONParser.CheckForProperty(String, JsonTextReader)</a>
+    </div>
+    <div>
+      <a class="xref" href="YuguLibrary.Utilities.JSONParser.html#YuguLibrary_Utilities_JSONParser_IsArrayOngoing_Newtonsoft_Json_JsonTextReader_">JSONParser.IsArrayOngoing(JsonTextReader)</a>
+    </div>
+    <div>
+      <a class="xref" href="YuguLibrary.Utilities.JSONParser.html#YuguLibrary_Utilities_JSONParser_IsEndOfObject_Newtonsoft_Json_JsonTextReader_">JSONParser.IsEndOfObject(JsonTextReader)</a>
+    </div>
+    <div>
+      <a class="xref" href="YuguLibrary.Utilities.JSONParser.html#YuguLibrary_Utilities_JSONParser_GetEnumerationFromJSONString_System_Type_System_String_">JSONParser.GetEnumerationFromJSONString(Type, String)</a>
+    </div>
+    <div>
+      <a class="xref" href="YuguLibrary.Utilities.JSONParser.html#YuguLibrary_Utilities_JSONParser_GetValueFromJSON_Newtonsoft_Json_JsonTextReader_">JSONParser.GetValueFromJSON(JsonTextReader)</a>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="YuguLibrary.Utilities.html">YuguLibrary.Utilities</a></h6>
+  <h6><strong>Assembly</strong>: Assembly-CSharp.dll</h6>
+  <h5 id="YuguLibrary_Utilities_UnitJSONParser_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class UnitJSONParser : JSONParser</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser__ctor_System_String_.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.%23ctor(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L80">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser__ctor_" data-uid="YuguLibrary.Utilities.UnitJSONParser.#ctor*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser__ctor_System_String_" data-uid="YuguLibrary.Utilities.UnitJSONParser.#ctor(System.String)">UnitJSONParser(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public UnitJSONParser(string unitJSONFileName)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><span class="parametername">unitJSONFileName</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetActions.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetActions%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L419">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetActions_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetActions*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetActions" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetActions">GetActions()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;OverworldObjectAction&gt; GetActions()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="YuguLibrary.Models.OverworldObjectAction.html">OverworldObjectAction</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetAnimationScript.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetAnimationScript%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L329">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetAnimationScript_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetAnimationScript*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetAnimationScript" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetAnimationScript">GetAnimationScript()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public AnimationScript GetAnimationScript()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="YuguLibrary.Models.AnimationScript.html">AnimationScript</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetBaseAscentFrames.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetBaseAscentFrames%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L359">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetBaseAscentFrames_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetBaseAscentFrames*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetBaseAscentFrames" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetBaseAscentFrames">GetBaseAscentFrames()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetBaseAscentFrames()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetBaseDescentFrames.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetBaseDescentFrames%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L354">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetBaseDescentFrames_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetBaseDescentFrames*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetBaseDescentFrames" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetBaseDescentFrames">GetBaseDescentFrames()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetBaseDescentFrames()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetBaseMovementFrames.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetBaseMovementFrames%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L349">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetBaseMovementFrames_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetBaseMovementFrames*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetBaseMovementFrames" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetBaseMovementFrames">GetBaseMovementFrames()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetBaseMovementFrames()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetClassification.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetClassification%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L339">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetClassification_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetClassification*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetClassification" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetClassification">GetClassification()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public UnitClassifications GetClassification()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="YuguLibrary.Enumerations.UnitClassifications.html">UnitClassifications</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetEncounterAIs.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetEncounterAIs%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L429">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetEncounterAIs_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetEncounterAIs*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetEncounterAIs" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetEncounterAIs">GetEncounterAIs()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;EncounterAI&gt; GetEncounterAIs()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="YuguLibrary.Models.EncounterAI.html">EncounterAI</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetHPScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetHPScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L364">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetHPScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetHPScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetHPScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetHPScaling">GetHPScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetHPScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetMagicalAttackScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetMagicalAttackScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L384">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetMagicalAttackScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetMagicalAttackScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetMagicalAttackScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetMagicalAttackScaling">GetMagicalAttackScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetMagicalAttackScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetMagicalDefenseScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetMagicalDefenseScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L394">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetMagicalDefenseScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetMagicalDefenseScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetMagicalDefenseScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetMagicalDefenseScaling">GetMagicalDefenseScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetMagicalDefenseScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetMPRegenScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetMPRegenScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L374">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetMPRegenScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetMPRegenScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetMPRegenScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetMPRegenScaling">GetMPRegenScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetMPRegenScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetMPScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetMPScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L369">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetMPScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetMPScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetMPScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetMPScaling">GetMPScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetMPScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetNameID.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetNameID%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L324">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetNameID_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetNameID*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetNameID" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetNameID">GetNameID()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string GetNameID()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetPhysicalAttackScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetPhysicalAttackScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L379">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetPhysicalAttackScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetPhysicalAttackScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetPhysicalAttackScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetPhysicalAttackScaling">GetPhysicalAttackScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetPhysicalAttackScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetPhysicalDefenseScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetPhysicalDefenseScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L389">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetPhysicalDefenseScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetPhysicalDefenseScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetPhysicalDefenseScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetPhysicalDefenseScaling">GetPhysicalDefenseScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetPhysicalDefenseScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetRole.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetRole%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L334">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetRole_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetRole*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetRole" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetRole">GetRole()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public UnitRoles GetRole()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="YuguLibrary.Enumerations.UnitRoles.html">UnitRoles</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetSkillResources.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetSkillResources%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L409">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetSkillResources_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetSkillResources*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetSkillResources" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetSkillResources">GetSkillResources()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;SkillResource&gt; GetSkillResources()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="YuguLibrary.Models.SkillResource.html">SkillResource</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetSkills.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetSkills%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L414">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetSkills_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetSkills*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetSkills" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetSkills">GetSkills()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;Skill&gt; GetSkills()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="YuguLibrary.Models.Skill.html">Skill</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetSpeedScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetSpeedScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L404">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetSpeedScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetSpeedScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetSpeedScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetSpeedScaling">GetSpeedScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetSpeedScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetSpeedTier.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetSpeedTier%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L344">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetSpeedTier_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetSpeedTier*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetSpeedTier" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetSpeedTier">GetSpeedTier()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public SpeedTiers GetSpeedTier()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="YuguLibrary.Enumerations.SpeedTiers.html">SpeedTiers</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetStaggerThresholdScaling.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetStaggerThresholdScaling%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L399">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetStaggerThresholdScaling_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetStaggerThresholdScaling*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetStaggerThresholdScaling" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetStaggerThresholdScaling">GetStaggerThresholdScaling()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float GetStaggerThresholdScaling()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_GetUnitAIs.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.GetUnitAIs%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L424">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_GetUnitAIs_" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetUnitAIs*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_GetUnitAIs" data-uid="YuguLibrary.Utilities.UnitJSONParser.GetUnitAIs">GetUnitAIs()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;UnitAI&gt; GetUnitAIs()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="YuguLibrary.Models.UnitAI.html">UnitAI</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser_ParseJSON_Newtonsoft_Json_JsonTextReader_.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser.ParseJSON(Newtonsoft.Json.JsonTextReader)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L92">View Source</a>
+  </span>
+  <a id="YuguLibrary_Utilities_UnitJSONParser_ParseJSON_" data-uid="YuguLibrary.Utilities.UnitJSONParser.ParseJSON*"></a>
+  <h4 id="YuguLibrary_Utilities_UnitJSONParser_ParseJSON_Newtonsoft_Json_JsonTextReader_" data-uid="YuguLibrary.Utilities.UnitJSONParser.ParseJSON(Newtonsoft.Json.JsonTextReader)">ParseJSON(JsonTextReader)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void ParseJSON(JsonTextReader reader)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Newtonsoft.Json.JsonTextReader</span></td>
+        <td><span class="parametername">reader</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="YuguLibrary.Utilities.JSONParser.html#YuguLibrary_Utilities_JSONParser_ParseJSON_Newtonsoft_Json_JsonTextReader_">JSONParser.ParseJSON(JsonTextReader)</a></div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/citrusunshiu/yugu-library/new/documentation-fix/apiSpec/new?filename=YuguLibrary_Utilities_UnitJSONParser.md&amp;value=---%0Auid%3A%20YuguLibrary.Utilities.UnitJSONParser%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/citrusunshiu/yugu-library/blob/documentation-fix/Utils/JSONParser.cs/#L52" class="contribution-link">View Source</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            Example Unity documentation
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

@@ -14,7 +14,7 @@ namespace UIConfirgurations
         public UICLanding()
         {
             screen = UIScreens.Landing;
-            uiFileName = "File Select";
+            uiFileName = "Yugu/File Select";
         }
 
         public override void LoadUI(GameObject uiContainer)
@@ -44,7 +44,7 @@ namespace UIConfirgurations
         public UICLandingFileSelect()
         {
             screen = UIScreens.Landing_FileSelect;
-            uiFileName = "File Select";
+            uiFileName = "Yugu/File Select";
             files = new List<PlayerFile>();
             LoadPlayerFiles();
         }
@@ -152,7 +152,7 @@ namespace UIConfirgurations
         public UICOverworld()
         {
             screen = UIScreens.Overworld;
-            uiFileName = "Overworld";
+            uiFileName = "Yugu/Overworld";
         }
 
         public override void LoadUI(GameObject uiContainer)
@@ -166,7 +166,7 @@ namespace UIConfirgurations
         public UICMenu()
         {
             screen = UIScreens.Menu;
-            uiFileName = "Menu";
+            uiFileName = "Yugu/Menu";
         }
 
         public override void LoadUI(GameObject uiContainer)
@@ -180,7 +180,7 @@ namespace UIConfirgurations
         public UICEncounter()
         {
             screen = UIScreens.Encounter;
-            uiFileName = "Encounter";
+            uiFileName = "Yugu/Encounter";
         }
 
         public override void LoadUI(GameObject uiContainer)
