@@ -15,8 +15,8 @@
     "build": {
         "template": [ "default", "templates/unity" ],
         "globalMetadata": {
-            "_appTitle": "Example Unity documentation",
-            "_appFooter": "Example Unity documentation",
+            "_appTitle": "Yugu Library documentation",
+            "_appFooter": "Yugu Library documentation",
             "_enableSearch": true
         },
         "content": [
@@ -47,7 +47,7 @@
         ],
         "sitemap":
         {
-            "baseUrl": "https://normanderwan.github.io/DocFxForUnity",
+            "baseUrl": "https://citrusunshiu.github.io/2d-isometric-boilerplate/",
             "changefreq": "weekly",
             "fileOptions": {
                 "api/*": {
