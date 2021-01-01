@@ -1,6 +1,1 @@
-# **2D Isometric Boilerplate**
-## **Preface**
-## **Related Links**
-wiki/yugu library documentation
-## Features
-## How to Use
+[Documentation](https://citrusunshiu.github.io/2d-isometric-boilerplate/api/YuguLibrary.html)
